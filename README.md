@@ -12,7 +12,7 @@ This will allow anyone to build their own servers using our code for the greater
 
 - Full url support
 - Partial http/https support (PKGI fully supports https but only in direct download mode)
-- Full TLS v1.2 support (Direct downloads are not supported for https/TLS v1.2+, File hosts in https will not be background download compatible)
+- Full TLS v1.2 support (Direct downloads are supported for https/TLS v1.2+, File hosts in https are not background download compatible)
 - Full support for title i.ds, region codes, content name, md5, date of creation, sha256, rap file and size.
 - Full category support (allows to seperate games, app, tools etc)
 
