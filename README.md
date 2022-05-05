@@ -97,5 +97,5 @@ To configure these lines here are some useful changes you can adjust and they wi
 
 # END OF SETUP #
 
-##NOTICE:##
+## NOTICE: ##
 If you choose to use this source code please be aware that this code intentions is to allows others to build thier own projects on their own terms, though we cannot guarantee that there will not be some indivduals that will utilize this code to spread malware or content that may seem legit. We strongly ask everyone to only use sources you 100% trust and has a decent reputation when it comes to offering digital downloads of any content they host. We are not responsible if your personal data is stolen, damaged etc from sources that has bad intentions of spreading malware to your PS3 system using this code to spread it. We want you to stay safe. We will never ask or force you to pay for this code, if your asked to pay for the use of this code, do NOT pay them.
