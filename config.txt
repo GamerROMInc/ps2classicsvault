@@ -1,0 +1,15 @@
+url_games url_to_ps3_games.tsv
+url_tools url_to_ps3_tools.tsv
+url_dlcs url_to_ps3_dlcs.tsv
+url_themes url_to_ps3_themes.tsv
+url_avatars url_to_ps3_avatars.tsv
+url_demos url_to_ps3_demos.tsv
+url_apps url_to_ps3_apps.tsv
+url_emulators url_to_ps3_emulators.tsv
+url_updates url_to_ps3_updates.tsv
+language en
+content 1
+sort name
+order asc
+filter ASA,EUR,JPN,USA
+no_music 0
